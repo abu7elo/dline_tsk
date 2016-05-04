@@ -1,0 +1,11 @@
+{
+    "mysql_config":{
+        "host"     : "localhost",
+        "user"     : "root",
+        "password" : "iphone",
+        "multipleStatements":true
+    },
+    "script_path":"./configs/sqlScript.sql",
+    "table":"airport",
+    "database" : "dreamlinee"
+}
